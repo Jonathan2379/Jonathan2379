@@ -1,7 +1,7 @@
 ### Olá, eu sou Jonathan 👋
 
 - 🌱 I’m currently learning: Ciência da Computação e Desenvolvimento de Softwares para Dispositivos Móveis;
-- 😄 Pronouns: ele, dele
+- 😄 Pronouns: ele, dele;
 - ⚡ hobbies: Assistir vídeos de finanças, Acompanhar o mundo dos foguetes, Academia, Pets;
 
 <div align="center">
