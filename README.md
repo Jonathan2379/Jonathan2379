@@ -24,7 +24,6 @@
   <a href = "mailto:contatojonathan1999@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/feed/?trk=sem-ga_campid%3D12619604099_asid%3D122510712920_crid%3D509739556235_kw%3Dlinked_d%3Dc_tid%3Dkwd-103941963_n%3Dg_mt%3De_geo%3D9101854_slid%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- 
-  ![Snake animation](https://github.com/Jonathan2379/Jonathan2379/blob/output/github-contribution-grid-snake.svg)
- 
+ ![Snake animation](https://github.com/Jonathan2379/Jonathan2379/blob/output/github-contribution-grid-snake.svg)
+    
 </div>
