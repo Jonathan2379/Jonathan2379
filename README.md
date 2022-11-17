@@ -4,7 +4,6 @@
 - 😄 Pronouns: ele, dele;
 - ⚡ hobbies: Assistir vídeos de finanças, Acompanhar o mundo dos foguetes, Academia, Pets;
 
-PAT_1
 
 <div align="center">
   <a href="https://github.com/Jonathan2379">
